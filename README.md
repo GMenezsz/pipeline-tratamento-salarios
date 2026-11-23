@@ -94,4 +94,4 @@ A coluna `Nascimento` deve estar como número serial do Excel (dias desde 30/12/
 
 ## Autor
 
-Gabriel Guedes — [GitHub](https://github.com/SEU-USUARIO)
+Gabriel Menezes — [GitHub](https://github.com/GMenezsz)
