@@ -5,7 +5,7 @@ Pipeline ETL em Python (pandas) que trata uma planilha de funcionários e calcul
 ## O que o projeto faz
 
 **Extract (extrair)**
-- Lê a aba `CSV` do Excel, onde todos os dados vêm na coluna A separados por vírgula.
+- Lê a aba `CSV` do Excel, onde todos os dados vêm na coluna A, separados por vírgula.
 - Separa em colunas (Nome, Sobrenome, Registro, Nascimento, Setor, Salário, Filial).
 
 **Transform (transformar)**
